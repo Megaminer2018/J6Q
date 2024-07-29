@@ -1,5 +1,5 @@
 PatriotBit Secure Compartmentalized Information Center 1.6.2021-NCSWIC
-===============================
+================================
 
 Copyright (c) 2016-2025 We The People.
 
